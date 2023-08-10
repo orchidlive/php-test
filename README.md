@@ -13,7 +13,7 @@ Install the required packages.
 composer install
 ```
 
-You can try running the tests tom make sure everything works as it should.
+You can try running the tests to make sure everything works as it should.
 
 ```shell
 composer test
